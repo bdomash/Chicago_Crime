@@ -1,4 +1,4 @@
-# Chicago-Crime
+# Chicago Crime
 My Econ 690 Final Project: Examining Crime Data in Chicago
 
 This repository includes the data, code, the project report, and some of the files used to gather data. The full crime dataset was far too big to upload, but can be found and downloaded here: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2 
